@@ -2,9 +2,9 @@
 
 Application de gestion des billets d’événements proposés par une ville
 
-• 2 profils : utilisateur, administrateur
+2 profils : utilisateur, administrateur
 
-• Utilisateur :
+Utilisateur :
 
 • Rechercher des événements par critères (type, date, localisation,
 ...)
@@ -13,7 +13,7 @@ Application de gestion des billets d’événements proposés par une ville
 
 • Confirmer la réservation et acheter un billet
 
-• Administrateur :
+Administrateur :
 
 • Gérer des événements (ajouter un événement, mettre à jour un
 événement, annuler un événement)
